@@ -1,16 +1,22 @@
-## Hi there 👋
+<!-- Profile README for longDo0Dev -->
 
-<!--
-**longDo0Dev/longDo0Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there 👋 I'm LongDo!</h1>
+<h3 align="center">Aspiring Full Stack Developer | VB.NET Desktop Dev | Web & Mobile Learner</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  💻 Focused on creating clean, efficient, and functional software<br>
+  🌱 Currently exploring full-stack development with PHP, CSS, JS, and Flutter
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me
+
+```vbnet
+Public Class LongDoDev
+    Public Name As String = "longDo0Dev"
+    Public Role As String = "VB.NET Dev & Full Stack Learner"
+    Public Sub DailyRoutine()
+        Console.WriteLine("Coding, Debugging, Learning, Growing!")
+    End Sub
+End Class
